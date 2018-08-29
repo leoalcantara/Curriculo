@@ -1,0 +1,12 @@
+/*
+Project: Curriculo pessoal 
+Author: Leonidio Alcantara;
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.alterar-fonte {
+	font-style: normal;
+	font-family: 'Roboto', sans-serif;
+	font-size: 45px;
+}
