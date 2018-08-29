@@ -8,18 +8,19 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/print.css" media="print">
 
 </head>
 <body>
 	<main class="container">
-	<header class="page-header">
+	<header class="page-header container">
 		<div class="container row">
 			<div class="col-md-8">
 				<h1 class="alterar-fonte">Leonidio da Silva Alcantara</h1>
 				<h2 class="alterar-fonte">Engenheiro de Software / Desenvolvedor</h2>	
 			</div>	
 			<div class="col-md-4">
-				<button type="button" class="btn btn-secondary" onclick="window.print();" value="imprimir">Imprimir</button>
+				<button id="noprint" type="button" class="btn btn-secondary print" onclick="window.print();" value="imprimir">Imprimir</button>
 				<address><i class="fas fa-at"></i> leonidio.ti@gmail.com</address>
 			</div>		
 		</div>		

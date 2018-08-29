@@ -17,3 +17,11 @@ Author: Leonidio Alcantara;
 .alterar-fonte h2{
 	font-size: 25px;
 }
+
+.print{
+	margin: 15px;
+}
+
+header {
+	padding-top: 15px;
+}
