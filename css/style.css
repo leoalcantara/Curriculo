@@ -7,6 +7,13 @@ Author: Leonidio Alcantara;
 
 .alterar-fonte {
 	font-style: normal;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;	
+}
+
+.alterar-fonte h1{
 	font-size: 45px;
+}
+
+.alterar-fonte h2{
+	font-size: 25px;
 }
