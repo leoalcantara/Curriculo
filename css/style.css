@@ -19,9 +19,18 @@ Author: Leonidio Alcantara;
 }
 
 .print{
-	margin: 15px;
+	margin: 10px;
 }
 
+.perfil{
+	display: inline-block;
+}
+
+.title{
+	position: absolute;
+	
+	}
+
 header {
-	padding-top: 15px;
+	padding-top: 10px;
 }
