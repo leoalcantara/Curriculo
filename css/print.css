@@ -4,6 +4,6 @@ Author: Leonidio Alcantara;
 
 */
 
-#noprint { display:none; } 
+.hide { display:none; } 
      
 body { background: #fff; }
