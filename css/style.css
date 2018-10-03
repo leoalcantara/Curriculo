@@ -5,6 +5,16 @@ Author: Leonidio Alcantara;
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+header {
+	padding-top: 10px;	
+}
+
+footer{
+	background-color:rgb(181, 190, 199);
+	text-align: center;
+	margin-top: 5px;	
+	padding: 5px;
+}
 .alterar-fonte {
 	font-style: normal;
 	font-family: 'Roboto', sans-serif;	
@@ -28,6 +38,3 @@ Author: Leonidio Alcantara;
 
 
 
-header {
-	padding-top: 10px;
-}
